@@ -1,0 +1,58 @@
+{
+    "reservations": [
+        {
+            "reservation_id": "527dc9f2-aafb-4387-8904-e1ba899e942d",
+            "room": "1",
+            "hotel_id": "104e5e0a-05df-4d7a-9b23-e0b7c99362a4",
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2"
+        },
+        {
+            "reservation_id": "3d0d144c-9df1-41ea-8ff9-117beec14b82",
+            "room": "2",
+            "hotel_id": "104e5e0a-05df-4d7a-9b23-e0b7c99362a4",
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2"
+        },
+        {
+            "reservation_id": "07d57340-d3bc-4812-8405-7b00689bcf19",
+            "room": "2",
+            "hotel_id": "104e5e0a-05df-4d7a-9b23-e0b7c99362a4",
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2"
+        },
+        {
+            "reservation_id": "beff83b6-b27f-4f97-8522-61387ad72159",
+            "room": "2",
+            "hotel_id": "104e5e0a-05df-4d7a-9b23-e0b7c99362a4",
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2"
+        },
+        {
+            "reservation_id": "baf59e04-c63a-4057-af64-0db864b88d01",
+            "room": "2",
+            "hotel_id": "104e5e0a-05df-4d7a-9b23-e0b7c99362a4",
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2"
+        },
+        {
+            "reservation_id": "efae94de-8311-4e93-82b5-c915ed1c0203",
+            "room": "2",
+            "hotel_id": "104e5e0a-05df-4d7a-9b23-e0b7c99362a4",
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2"
+        },
+        {
+            "reservation_id": "db78ad88-ef30-4a43-8669-a7c9e62131a3",
+            "room": "2",
+            "hotel_id": "104e5e0a-05df-4d7a-9b23-e0b7c99362a4",
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2"
+        },
+        {
+            "reservation_id": "f470dbd2-d4c5-4d01-935c-1546477e616d",
+            "room": "2",
+            "hotel_id": "104e5e0a-05df-4d7a-9b23-e0b7c99362a4",
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2"
+        },
+        {
+            "reservation_id": "cc90226c-ca2e-4ec4-868b-3854615f394a",
+            "room": "2",
+            "hotel_id": "104e5e0a-05df-4d7a-9b23-e0b7c99362a4",
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2"
+        }
+    ]
+}

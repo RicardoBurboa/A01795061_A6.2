@@ -1,0 +1,64 @@
+{
+    "customers": [
+        {
+            "customer_id": "b61ffc9c-78e6-46d7-9e81-f1c0e9a38ef2",
+            "customer_name": "Ricardo Burboa Astorga"
+        },
+        {
+            "customer_id": "fe9c26dd-6af2-4d79-9810-db242685b3c0",
+            "customer_name": "Juanito"
+        },
+        {
+            "customer_id": "cd4b448c-6017-4f3b-ad2f-0779f9a4fed1",
+            "customer_name": "Pancho"
+        },
+        {
+            "customer_id": "677bd952-a673-445b-867a-831466051c08",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "44fa1e04-3bc9-412c-9caf-ebfa515eb39e",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "54ba58a0-1abe-4d6e-b6a4-b9563fbbaa6a",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "c2eef8ce-f6eb-41d1-9433-9d1021fd1df6",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "7afe1183-098c-40dc-be8d-febb764ec2dc",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "0c5489e5-6117-4032-b904-2e490098601b",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "77039b1a-b5c7-4995-b940-1ce917e2b626",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "961a03fb-b5cc-454b-bd4d-f29f896c753a",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "afaa6f93-f6f8-4160-b88b-3a49605ba9f6",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "d944c481-7509-4516-8028-b7d463103802",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "2fc3d52b-776d-4869-96d4-c6b372e023c6",
+            "customer_name": "Nombre de Prueba"
+        },
+        {
+            "customer_id": "a5421ed5-ae55-4b90-b56f-1ebad7d1c263",
+            "customer_name": "Nombre de Prueba"
+        }
+    ]
+}
